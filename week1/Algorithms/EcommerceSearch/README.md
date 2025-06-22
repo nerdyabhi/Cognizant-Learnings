@@ -1,5 +1,8 @@
 # E-commerce Search Function
 
+### Output
+![E-commerce Search Results](./output.png)
+
 ## What is Big O Notation?
 
 Big O notation is a mathematical notation used to describe the computational complexity of algorithms, specifically how the runtime or space requirements grow relative to the input size. It provides an upper bound on the growth rate of an algorithm's time or space complexity in the worst-case scenario.

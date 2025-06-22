@@ -75,3 +75,9 @@ public class Main {
         doc3.open();
     }
 }
+
+// Output :::::
+// java Main
+// Opening Word Document
+// Opening PDF Document
+// Opening Excel Document

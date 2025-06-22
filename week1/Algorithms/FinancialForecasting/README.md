@@ -1,5 +1,8 @@
 # Financial Forecasting Tool
 
+## Output
+![Output](output.png)
+
 ## What is Recursion?
 
 Recursion is when a function calls itself to solve a problem by breaking it into smaller, similar problems. Think of it like Russian nesting dolls - each layer reveals a smaller version of the same thing.

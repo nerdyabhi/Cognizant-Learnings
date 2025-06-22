@@ -18,3 +18,6 @@ public class Main {
         System.out.printf("Forecasted Value after %d years: %.2f\n", years, future);
     }
 }
+
+// Output
+// Forecasted Value after 5 years: 1610.51
